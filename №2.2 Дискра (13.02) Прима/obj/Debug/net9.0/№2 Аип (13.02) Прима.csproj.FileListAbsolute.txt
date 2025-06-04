@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\bin\Debug\net9.0\№2 Аип (13.02) Прима.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\bin\Debug\net9.0\№2 Аип (13.02) Прима.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\bin\Debug\net9.0\№2 Аип (13.02) Прима.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\bin\Debug\net9.0\№2 Аип (13.02) Прима.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\bin\Debug\net9.0\№2 Аип (13.02) Прима.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\refint\№2 Аип (13.02) Прима.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\№2 Аип (13.02) Прима.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Прима\obj\Debug\net9.0\ref\№2 Аип (13.02) Прима.dll

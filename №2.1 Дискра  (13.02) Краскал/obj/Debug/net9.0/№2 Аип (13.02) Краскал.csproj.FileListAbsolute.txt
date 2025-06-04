@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\bin\Debug\net9.0\№2 Аип (13.02) Краскал.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\bin\Debug\net9.0\№2 Аип (13.02) Краскал.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\bin\Debug\net9.0\№2 Аип (13.02) Краскал.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\bin\Debug\net9.0\№2 Аип (13.02) Краскал.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\bin\Debug\net9.0\№2 Аип (13.02) Краскал.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\refint\№2 Аип (13.02) Краскал.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\№2 Аип (13.02) Краскал.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\№2 Аип (13.02) Краскал\obj\Debug\net9.0\ref\№2 Аип (13.02) Краскал.dll
