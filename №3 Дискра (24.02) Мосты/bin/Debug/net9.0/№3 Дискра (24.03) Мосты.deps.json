@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "№3 Дискра (24.03) Мосты/1.0.0": {
+        "runtime": {
+          "№3 Дискра (24.03) Мосты.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "№3 Дискра (24.03) Мосты/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

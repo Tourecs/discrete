@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\bin\Debug\net9.0\№3 Дискра (24.03) Мосты.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\bin\Debug\net9.0\№3 Дискра (24.03) Мосты.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\bin\Debug\net9.0\№3 Дискра (24.03) Мосты.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\bin\Debug\net9.0\№3 Дискра (24.03) Мосты.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\bin\Debug\net9.0\№3 Дискра (24.03) Мосты.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\refint\№3 Дискра (24.03) Мосты.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\№3 Дискра (24.03) Мосты.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Дискра 2 Сем\№3 Дискра (24.03) Мосты\obj\Debug\net9.0\ref\№3 Дискра (24.03) Мосты.dll

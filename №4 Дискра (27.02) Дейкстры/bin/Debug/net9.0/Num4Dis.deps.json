@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Num4Dis/1.0.0": {
+        "runtime": {
+          "Num4Dis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Num4Dis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
