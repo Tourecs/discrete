@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Num8Dis/1.0.0": {
+        "runtime": {
+          "Num8Dis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Num8Dis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
